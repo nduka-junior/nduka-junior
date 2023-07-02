@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nduka-junior
-- 👀 I’m interested in Full stack Blockchain developer
-- 🌱 I’m currently learning React js 
-- 💞️ I’m looking to collaborate on different frontend developers
+- 👋 Hi, I’m @Nduka Junior
+- 👀 I’m interested in becoming a Full stack and  Blockchain developer
+- 🌱 I’m currently learning React js ---> nextjs
+- 💞️ I’m looking to collaborate with different frontend developers
 - 📫 How to reach me on twitter -----> https://twitter.com/nduka_junior
 
 <!---
